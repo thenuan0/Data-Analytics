@@ -36,11 +36,14 @@ Purpose: To align financial planning with strategic goals and provide a foundati
 Key Insights:
 
 Aid in benchmarking against industry peers.
+
 Provide insights for long-term financial outlooks and stakeholder confidence.
+
 Technical Skills
 ETL Proficiency: Extract, transform, and load data for comprehensive analysis.
 Power Query & Power Pivot: Created date tables and established relationships for effective data modeling.
 DAX Expertise: Developed calculated columns to derive insights.
+
 Soft Skills
 Sales & Finance Report Design: Created reports with a user-centric approach.
 Data Optimization: Fine-tuned report generation for efficiency.
